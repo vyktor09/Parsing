@@ -13,9 +13,9 @@ Este script tem a funcionalidade de realizar parsing em páginas html, procurand
 ## Funcionamento
 
 ```bash
-./pasing.sh www.google.com
+./parsing.sh www.google.com
 ```
 ou
 ```bash
-./pasing.sh -f index.html
+./parsing.sh -f index.html
 ```
